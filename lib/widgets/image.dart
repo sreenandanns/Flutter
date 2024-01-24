@@ -53,15 +53,15 @@ class MyWidget extends StatelessWidget {
               ),
               
             ),
-            // Container(
-            //   height: 300,
-            //   width: 300,
-            //   color:Color.fromARGB(255, 173, 211, 90),
+            Container(
+              height: 300,
+              width: 300,
+              color:Color.fromARGB(255, 173, 211, 90),
               
-            //   child: Image.network('https://cdn.dribbble.com/users/1952691/screenshots/15167558/media/4a1596687e2c3afcae11ecd249a785be.jpg?resize=1000x750&vertical=center',
-            //   fit: BoxFit.fitHeight),
+              child: Image.network('https://cdn.dribbble.com/users/1952691/screenshots/15167558/media/4a1596687e2c3afcae11ecd249a785be.jpg?resize=1000x750&vertical=center',
+              fit: BoxFit.fitHeight),
              
-            // )
+            )
 
           ],
           
