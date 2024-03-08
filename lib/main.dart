@@ -1,8 +1,9 @@
 import 'package:flutter/material.dart';
+
 //import 'package:ksrtc_app/widgets/container.dart';
 //import 'package:ksrtc_app/widgets/rawcolumn.dart';
-import 'package:ksrtc_app/widgets/image.dart';
-
+// import 'package:ksrtc_app/widgets/image.dart';
+ import 'package:ksrtc_app/widgets/vimal4.dart';
 void main(){
   runApp(MyApp());
 }
